@@ -1,0 +1,14 @@
+{
+    "Policy": {
+        "PolicyName": "deckhouse-iam-policy",
+        "PolicyId": "xxx",
+        "Arn": "arn:aws:iam::1234567890:policy/deckhouse-iam-policy",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 0,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2023-05-29T13:31:59Z",
+        "UpdateDate": "2023-05-29T13:31:59Z"
+    }
+}

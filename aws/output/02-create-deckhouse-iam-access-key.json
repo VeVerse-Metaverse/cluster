@@ -1,0 +1,9 @@
+{
+    "AccessKey": {
+        "UserName": "deckhouse",
+        "AccessKeyId": "xxx",
+        "Status": "Active",
+        "SecretAccessKey": "xxx",
+        "CreateDate": "2022-12-09T09:52:44Z"
+    }
+}
